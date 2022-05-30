@@ -13,6 +13,11 @@ card.innerHTML = `
             <li>Izima Obisike</li>
             <li>Igah Abiye</li>
             <li>Amos Thibault Bikari</li>
+
+<li>Susan Mwende</li>
+
+<li>Susan Chekosgei</li>
+
           </ol>
         </div>
 `;
